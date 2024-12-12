@@ -1,8 +1,8 @@
 ## Data-Analyst-Vedh
 
-## <div align="center">   Project Phase 1  </div>
+##  Project Phase 1  
 
-## <div align="center"> Descriptive Analysis </div>
+##  Descriptive Analysis 
 
 ### Project Description
 **Descriptive Analysis of Business Licenses in the City of Vancouver**
@@ -82,7 +82,7 @@ The dataset is sourced from the City of Vancouver’s Open Data Portal. Key attr
 6. Recommendations for further analysis or potential business implications based on the findings.
 
 
-## <div align="center"> Exploratory Analysis </div>
+##  Exploratory Analysis 
 
 ## Project Description
 **Exploratory Data Analysis (EDA) for Business Licenses Dataset**
@@ -155,8 +155,8 @@ The Business Licenses dataset includes the following columns:
 5. Analysis report detailing insights and findings from the exploratory analysis.
 6. Recommendations for further analysis or potential business implications based on the findings.
 
-## <div align="center">  Project Phase 2 </div>
-## <div align="center"> Data Quality Control </div>
+##  Project Phase 2 
+##  Data Quality Control 
 
 ## Project Description
 **Data Quality Control for Business Licenses Dataset: Enriching, Governance, Protection, and Observability**
