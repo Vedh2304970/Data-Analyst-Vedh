@@ -13,6 +13,10 @@
 ### Objective
 The primary objective of this project is to analyze the employment distribution across different business types in the downtown area of Vancouver. By applying descriptive analytics, we aim to summarize the number of employees in various business categories, providing insights that can inform urban planning, business investments, and workforce strategies.
 
+![Fig 1. Column chart of Business Type v/s Total Sum of Employees![image](https://github.com/user-attachments/assets/7df29c1f-1d05-4d67-826e-70b4fe375669)
+](https://raw.githubusercontent.com/Vedh2304970/Data-Analyst-Vedh/62d6c40a616d2b952e08b06515e3b065d96d2603/Picture1.png)
+
+
 ### Dataset
 The dataset is sourced from the City of Vancouver’s Open Data Portal. Key attributes include:
 - **FOLDERYEAR**: Year of license folder creation.
@@ -67,6 +71,10 @@ The dataset is sourced from the City of Vancouver’s Open Data Portal. Key attr
    - Create a column chart showing the total sum of employees for each business type.
    - Generate a comparison chart displaying both the average and sum of employees across business types.
 
+![Data Analytic Platform and its components for Business Licence![image](https://github.com/user-attachments/assets/7c7f17d5-7be4-449c-883f-1a5f88296cba)
+](https://raw.githubusercontent.com/Vedh2304970/Data-Analyst-Vedh/62d6c40a616d2b952e08b06515e3b065d96d2603/Picture2.png)
+
+
 ## Tools and Technologies
 - **AWS S3**: Data storage.
 - **AWS Glue DataBrew**: Data profiling and cleaning.
@@ -92,6 +100,9 @@ The dataset is sourced from the City of Vancouver’s Open Data Portal. Key attr
 
 ## Objective
 The primary goal of this project is to perform an exploratory data analysis (EDA) on the Business Licenses dataset from the City of Vancouver. The analysis aims to uncover patterns, trends, and insights related to employee distribution across various business types. This includes comparing the total sum and average number of employees within each business type to understand employment patterns.
+
+![Description of the image](https://github.com/Vedh2304970/Data-Analyst-Vedh/raw/59350b673c21dbe5203093f7d26aaa77ce184813/Picture3.png)
+
 
 ## Dataset
 The Business Licenses dataset includes the following columns:
@@ -155,6 +166,9 @@ The Business Licenses dataset includes the following columns:
 5. Analysis report detailing insights and findings from the exploratory analysis.
 6. Recommendations for further analysis or potential business implications based on the findings.
 
+![Description of the image](https://raw.githubusercontent.com/Vedh2304970/Data-Analyst-Vedh/59350b673c21dbe5203093f7d26aaa77ce184813/Picture4.png)
+
+
 ##  Project Phase 2 
 ##  Data Quality Control 
 
@@ -166,6 +180,9 @@ The Business Licenses dataset includes the following columns:
 
 ## Objective
 The primary goal of this project is to implement robust methodologies for enriching, governing, protecting, and observing the Business Licenses dataset. By leveraging advanced data techniques, the project ensures the data’s accuracy, security, and usability while maintaining compliance with governance standards and enhancing monitoring capabilities.
+
+![KMS Image](https://github.com/Vedh2304970/Data-Analyst-Vedh/blob/59350b673c21dbe5203093f7d26aaa77ce184813/security%20KMS.png?raw=true)
+
 
 ## Dataset
 The Business Licenses dataset includes the following columns:
@@ -207,6 +224,9 @@ The Business Licenses dataset includes the following columns:
     - Logs of system activity and errors.
 - **Alerts and Notifications**: Configure alarms for deviations in storage usage or ETL pipeline performance.
 - **Log Analysis**: Enable detailed tracking of AWS Glue jobs and S3 operations for comprehensive observability.
+
+
+![Dashboard](https://github.com/Vedh2304970/Data-Analyst-Vedh/blob/59350b673c21dbe5203093f7d26aaa77ce184813/Dashboard.png)
 
 ## Tools and Technologies
 - **Data Enriching**: AWS DynamoDB, AWS Glue Crawler
