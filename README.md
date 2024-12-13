@@ -225,9 +225,7 @@ The Business Licenses dataset includes the following columns:
 - **Alerts and Notifications**: Configure alarms for deviations in storage usage or ETL pipeline performance.
 - **Log Analysis**: Enable detailed tracking of AWS Glue jobs and S3 operations for comprehensive observability.  
   
-![Dashboard Image](https://github.com/Vedh2304970/Data-Analyst-Vedh/blob/e3126395d7b78d3a45280d122cc4e72361a9be4d/Dashboard1.png?raw=true)
-![image](https://github.com/user-attachments/assets/f67ca0d9-1b0b-483c-96a7-a9078e2f74be)
-
+![Dashboard Image](https://github.com/Vedh2304970/Data-Analyst-Vedh/blob/e3126395d7b78d3a45280d122cc4e72361a9be4d/Dashboard1.png?raw=true)  
   
 ## Tools and Technologies
 - **Data Enriching**: AWS DynamoDB, AWS Glue Crawler
